@@ -1,3 +1,8 @@
+---
+layout: post
+title: SmashingMagazine Meetup #3
+---
+
 Hallo zusammen,
 
 folgend möchte ich euch einen kurzen Eindruck zum [SmashingMagazine](http://www.smashingmagazine.com/) [Meetup #3](http://www.meetup.com/The-SmashingMagazine-Meetup/events/42026332/) geben.
